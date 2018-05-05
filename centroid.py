@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 18 00:23:53 2018
-
-@author: Ashok
-"""
 
 
 import data_handler_almost as DH
