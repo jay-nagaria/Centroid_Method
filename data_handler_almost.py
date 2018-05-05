@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 17 21:39:36 2018
 
-@author: Ashok
-"""
 
 import csv
 import math
